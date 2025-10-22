@@ -4,7 +4,7 @@ library(tidyr)
 library(lubridate)
 
 # ---- Setup and transformation of datasets ---- 
-path_to_data <- "https://raw.githubusercontent.com/tdvoronova/masters-thesis/main/df.csv"
+path_to_data <- "https://raw.githubusercontent.com/tdvoronova/Code-Sample/main/df.csv"
 
 df <- readr::read_csv(path_to_data, show_col_types = FALSE) %>%
   mutate(date = as.Date(date)) %>%               # ensure date parsed
