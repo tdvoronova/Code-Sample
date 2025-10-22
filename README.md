@@ -7,7 +7,7 @@ The code demonstrates the main analytical steps used to assess the impact of Rus
 
 It reproduces a minimal working example of the data preparation, econometric modeling, and visualization workflow.
 
----
+
 
 ## What the script does
 
@@ -22,7 +22,7 @@ It reproduces a minimal working example of the data preparation, econometric mod
   * Two-way fixed effects (TWFE) models for city-specific dynamics
 * Visualizes rent price growth and major migration shock periods in Georgia
 
----
+
 
 ## Files
 
@@ -34,4 +34,4 @@ It reproduces a minimal working example of the data preparation, econometric mod
 
 ## More
 If you wish to explore the full version of the code and data preparation pipeline, please visit:
-👉 [Master’s Thesis Repository](https://github.com/tdvoronova/masters-thesis)
+ [Master’s Thesis Repository](https://github.com/tdvoronova/masters-thesis)
